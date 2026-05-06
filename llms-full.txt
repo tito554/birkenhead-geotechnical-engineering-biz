@@ -1,0 +1,45 @@
+# Birkenhead
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Collapsible Soil Evaluation](https://birkenhead.geotechnical-engineering.biz/collapsible-soil-evaluation/)
+- [Cone Penetration](https://birkenhead.geotechnical-engineering.biz/cone-penetration/)
+- [Diaphragm Wall Design](https://birkenhead.geotechnical-engineering.biz/diaphragm-wall-design/)
+- [Differential Settlement Analysis](https://birkenhead.geotechnical-engineering.biz/differential-settlement-analysis/)
+- [Foundations](https://birkenhead.geotechnical-engineering.biz/foundations/)
+- [Geophysics](https://birkenhead.geotechnical-engineering.biz/geophysics/)
+- [Geotechnical Design Deep Excavations](https://birkenhead.geotechnical-engineering.biz/geotechnical-design-deep-excavations/)
+- [Geotechnical Road Drainage](https://birkenhead.geotechnical-engineering.biz/geotechnical-road-drainage/)
+- [Ground Improvement](https://birkenhead.geotechnical-engineering.biz/ground-improvement/)
+- [Grouting Design](https://birkenhead.geotechnical-engineering.biz/grouting-design/)
+- [In Situ Testing](https://birkenhead.geotechnical-engineering.biz/in-situ-testing/)
+- [Investigation](https://birkenhead.geotechnical-engineering.biz/investigation/)
+- [Laboratory](https://birkenhead.geotechnical-engineering.biz/laboratory/)
+- [Mechanically Stabilized Earth](https://birkenhead.geotechnical-engineering.biz/mechanically-stabilized-earth/)
+- [Menard Pressuremeter](https://birkenhead.geotechnical-engineering.biz/menard-pressuremeter/)
+- [Oedometer Consolidation](https://birkenhead.geotechnical-engineering.biz/oedometer-consolidation/)
+- [Residual Soil Characterization](https://birkenhead.geotechnical-engineering.biz/residual-soil-characterization/)
+- [Retaining Wall Design](https://birkenhead.geotechnical-engineering.biz/retaining-wall-design/)
+- [Rigid Pavement Design](https://birkenhead.geotechnical-engineering.biz/rigid-pavement-design/)
+- [Roadway](https://birkenhead.geotechnical-engineering.biz/roadway/)
+- [Seismic](https://birkenhead.geotechnical-engineering.biz/seismic/)
+- [Seismic Foundation Design](https://birkenhead.geotechnical-engineering.biz/seismic-foundation-design/)
+- [Seismic Microzonation](https://birkenhead.geotechnical-engineering.biz/seismic-microzonation/)
+- [Shear Wave Velocity](https://birkenhead.geotechnical-engineering.biz/shear-wave-velocity/)
+- [Sheet Pile Wall Design](https://birkenhead.geotechnical-engineering.biz/sheet-pile-wall-design/)
+- [Slope Stability Analysis](https://birkenhead.geotechnical-engineering.biz/slope-stability-analysis/)
+- [Slopes Walls](https://birkenhead.geotechnical-engineering.biz/slopes-walls/)
+- [Soil Erosion Analysis](https://birkenhead.geotechnical-engineering.biz/soil-erosion-analysis/)
+- [Soil Mechanics Study](https://birkenhead.geotechnical-engineering.biz/soil-mechanics-study/)
+- [Standard Penetration](https://birkenhead.geotechnical-engineering.biz/standard-penetration/)
+- [Stone Column Design](https://birkenhead.geotechnical-engineering.biz/stone-column-design/)
+- [Unconfined Compression](https://birkenhead.geotechnical-engineering.biz/unconfined-compression/)
+- [Underground Excavations](https://birkenhead.geotechnical-engineering.biz/underground-excavations/)
+
+## Contact
+- Website: https://birkenhead.geotechnical-engineering.biz/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
