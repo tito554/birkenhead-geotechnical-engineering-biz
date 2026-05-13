@@ -116,6 +116,42 @@ header.hero, .hero { position: relative !important; }
 .leaflet-control { z-index: 800 !important; }
 .leaflet-container { z-index: 1 !important; }
 </style>
+<style id="inline-link-style">
+p a[href^="/"]:not(.cta-btn):not(.hero-cta){color:var(--accent,#800020) !important;text-decoration:underline !important;text-decoration-color:rgba(29,78,216,.45);text-underline-offset:2px;font-weight:600}
+p a[href^="/"]:not(.cta-btn):not(.hero-cta):hover{text-decoration-color:currentColor;opacity:.85}
+</style>
+<style id="navbar-compact-fix">
+/* Compactar navbar para que el menú entre completo */
+.navbar{padding:.65rem 1rem !important}
+.navbar .nav{gap:.55rem !important}
+.nav-item{font-size:.74rem !important;letter-spacing:.01em !important}
+.nav-item.has-dd .nav-cat-link{padding:.4rem .25rem !important}
+.nav-item.has-dd .nav-arrow{font-size:.7rem !important;margin-left:.15rem !important}
+.cta-btn{padding:.45rem .8rem !important;font-size:.72rem !important;letter-spacing:.03em !important}
+.logo-box,.brand-name,.brand{font-size:.82rem !important}
+.logo-text .main{font-size:.95rem !important}
+.logo-text .sub{font-size:.72rem !important}
+/* Para layouts aberdeen/classic con clase distinta */
+header nav a,.menu a{font-size:.78rem !important}
+@media (max-width:1100px){
+  .nav-item{font-size:.7rem !important}
+  .navbar .nav{gap:.4rem !important}
+  .cta-btn{padding:.4rem .65rem !important;font-size:.68rem !important}
+}
+</style>
+<style id="layout-defensive">
+html,body{overflow-x:hidden;max-width:100vw}
+body>*{max-width:100vw}
+@media (min-width:901px){
+  aside{position:relative}
+  aside+main,aside~main,aside~div>main{margin-left:0}
+  .content-area{display:flex;gap:1rem}
+}
+@media (max-width:900px){
+  aside{width:100% !important;position:static !important;height:auto !important}
+  .navbar{flex-wrap:wrap}
+}
+</style>
 </head><body>
 
 <nav class="navbar">
@@ -196,7 +232,7 @@ header.hero, .hero { position: relative !important; }
 
 <section class="section"><h2>Common questions</h2>
 <hr style="border:none;height:2px;background:linear-gradient(90deg,transparent,#A16207,transparent);margin:2rem 0;width:60%;margin-left:auto;margin-right:auto">
-<details><summary>What is the difference between residual soil and transported soil in Birkenhead?</summary><p>Residual soil forms in place from the chemical and physical weathering of the underlying Triassic sandstone or mudstone. It retains relict structures like bedding planes and joints, but has lost much of the original rock strength. Transported soil, such as the glacial till found in parts of Birkenhead, was deposited by ice or water and has a completely different particle arrangement — typically denser and less prone to collapse upon wetting.</p></details><details><summary>How deep should a residual soil characterization borehole go in Birkenhead?</summary><p>The borehole or trial pit should extend at least 1.5 m into the unweathered bedrock, or to a depth where SPT N-values consistently exceed 40. In most of Birkenhead the full weathering profile is 3–5 m thick, so a depth of 6–7 m is usually sufficient to define the transition from Grade VI residual soil to Grade I rock.</p></details><details><summary>Can residual soil in Birkenhead be used as engineered fill?</summary><p>It depends on the degree of weathering and the moisture content at placement. Grade V and VI materials often contain a high proportion of fines and can be difficult to compact to the required density if the moisture content exceeds 20%. A full compaction control test (BS 1377:1990, Part 4) is necessary, and the material may require drying or blending with granular borrow before it meets specification for structural fill.</p></details><details><summary>What is the typical cost of a residual soil characterization study in Birkenhead?</summary><p>For a standard residential or small commercial site, the cost ranges between £750 and £2,410 depending on the number of boreholes, the depth of profiling, and the laboratory suite required. This typically includes weathering grade logging, index properties, and a collapse potential test on two undisturbed samples. Larger or more complex sites with multiple horizons may fall at the upper end of the range.</p></details><details><summary>How does residual soil affect foundation design in Birkenhead compared to other UK cities?</summary><p>In Birkenhead the residual soil is derived from relatively weak Triassic sandstone, whereas in London the residual profile comes from stronger chalk, and in Glasgow from weathered Carboniferous mudstone. The key difference is that Birkenhead's residual soils have a higher collapse potential and a more variable moisture regime due to the town's proximity to the Mersey estuary. Foundations must be designed with a higher factor of safety against differential settlement, and deep strip or piled foundations are often preferred over conventional shallow footings in the upper 2 m of the profile.</p></details></section>
+<details><summary>What is the difference between residual soil and transported soil in Birkenhead?</summary><p>Residual soil forms in place from the chemical and physical weathering of the underlying Triassic sandstone or mudstone. It retains relict structures like bedding planes and joints, but has lost much of the original rock strength. Transported soil, such as the glacial till found in parts of Birkenhead, was deposited by ice or water and has a completely different particle arrangement — typically denser and less prone to collapse upon wetting.</p></details><details><summary>How deep should a residual soil characterization borehole go in Birkenhead?</summary><p>The borehole or trial pit should extend at least 1.5 m into the unweathered bedrock, or to a depth where SPT N-values consistently exceed 40. In most of Birkenhead the full weathering profile is 3–5 m thick, so a depth of 6–7 m is usually sufficient to define the transition from Grade VI residual soil to Grade I rock.</p></details><details><summary>Can residual soil in Birkenhead be used as engineered fill?</summary><p>It depends on the degree of weathering and the moisture content at placement. Grade V and VI materials often contain a high proportion of fines and can be difficult to compact to the required density if the moisture content exceeds 20%. A full compaction control test (BS 1377:1990, Part 4) is necessary, and the material may require drying or blending with granular borrow before it meets specification for structural fill.</p></details><details><summary>What is the typical cost of a residual soil characterization study in Birkenhead?</summary><p>For a standard residential or small commercial site, the cost ranges between £750 and £2,410 depending on the number of boreholes, the depth of profiling, and the <a href="/laboratory/">laboratory</a> suite required. This typically includes weathering grade logging, index properties, and a collapse potential test on two undisturbed samples. Larger or more complex sites with multiple horizons may fall at the upper end of the range.</p></details><details><summary>How does residual soil affect foundation design in Birkenhead compared to other UK cities?</summary><p>In Birkenhead the residual soil is derived from relatively weak Triassic sandstone, whereas in London the residual profile comes from stronger chalk, and in Glasgow from weathered Carboniferous mudstone. The key difference is that Birkenhead's residual soils have a higher collapse potential and a more variable moisture regime due to the town's proximity to the Mersey estuary. Foundations must be designed with a higher factor of safety against differential settlement, and deep strip or piled foundations are often preferred over conventional shallow footings in the upper 2 m of the profile.</p></details></section>
 
 
 
